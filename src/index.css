@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  .tab{
+    @apply p-3 w-24 text-center cursor-pointer
+  }
+  .nav-container{
+    @apply flex border border-gray-100 items-center justify-center w-64 mx-auto rounded-md font-light uppercase text-xs tracking-widest
+  }
+  .flatirons-bg{
+    @apply w-screen h-screen bg-flatirons bg-cover
+  }
+  .shaded-container{
+    @apply w-full h-full bg-black bg-cover bg-opacity-60 text-gray-100
+  }
+}
