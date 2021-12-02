@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/soren_portfolio/static/css/main.cf127e4e.chunk.css",
+    "main.js": "/soren_portfolio/static/js/main.a2f02290.chunk.js",
+    "main.js.map": "/soren_portfolio/static/js/main.a2f02290.chunk.js.map",
+    "runtime-main.js": "/soren_portfolio/static/js/runtime-main.b81b082b.js",
+    "runtime-main.js.map": "/soren_portfolio/static/js/runtime-main.b81b082b.js.map",
+    "static/js/2.31bb936d.chunk.js": "/soren_portfolio/static/js/2.31bb936d.chunk.js",
+    "static/js/2.31bb936d.chunk.js.map": "/soren_portfolio/static/js/2.31bb936d.chunk.js.map",
+    "static/js/3.2e1b7b46.chunk.js": "/soren_portfolio/static/js/3.2e1b7b46.chunk.js",
+    "static/js/3.2e1b7b46.chunk.js.map": "/soren_portfolio/static/js/3.2e1b7b46.chunk.js.map",
+    "index.html": "/soren_portfolio/index.html",
+    "static/css/main.cf127e4e.chunk.css.map": "/soren_portfolio/static/css/main.cf127e4e.chunk.css.map",
+    "static/js/2.31bb936d.chunk.js.LICENSE.txt": "/soren_portfolio/static/js/2.31bb936d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/soren_portfolio/static/media/mapProject2.69583bcf.png",
+    "static/media/climb.6cdb899e.jpeg": "/soren_portfolio/static/media/climb.6cdb899e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b81b082b.js",
+    "static/js/2.31bb936d.chunk.js",
+    "static/css/main.cf127e4e.chunk.css",
+    "static/js/main.a2f02290.chunk.js"
+  ]
+}

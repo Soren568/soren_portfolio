@@ -18,7 +18,8 @@ module.exports = {
         'chatProject2': "url('./assets/img/chatProject2.png')",
       },
       screens: {
-        'xs': '350px'
+        'xs': {'max' : '400px'},
+        'sm' : {'max' : '768px'}
       }
     },
   },

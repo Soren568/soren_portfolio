@@ -38,7 +38,7 @@ const Resume = ({ resumeIsOpen, setResumeIsOpen }) => {
                                     leaveFrom="opacity-100"
                                     leaveTo="opacity-0"
                                 >
-                                    <div className="absolute top-0 right-0 pt-4 pr-14 flex sm:-mr-10 sm:pl-4 xs:-mr-10 xs:mt-2">
+                                    <div className="absolute top-0 right-0 pt-4 pr-14 flex -mr-10 sm:pl-4 xs:mt-2">
                                         <button
                                             type="button"
                                             className="rounded-md text-gray-300 hover:text-white focus:outline-none"

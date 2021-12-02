@@ -47,7 +47,7 @@ const Projects = ({ projectsIsOpen, setProjectsIsOpen }) => {
                                     leaveFrom="opacity-100"
                                     leaveTo="opacity-0"
                                 >
-                                    <div className="absolute top-0 right-14 -mr-40 pt-4 pl-2 flex sm:-mr-10 sm:pl-4 xs:-mr-10 xs:mt-2">
+                                    <div className="absolute top-0 right-14 -mr-10 pt-4 pl-2 flex sm:pl-4 xs:mt-2">
                                         <button
                                             type="button"
                                             className="rounded-md text-gray-300 hover:text-white focus:outline-none"
@@ -63,7 +63,7 @@ const Projects = ({ projectsIsOpen, setProjectsIsOpen }) => {
                                         <Dialog.Title className="font-semibold text-gray-100 uppercase tracking-widest text-2xl">Projects</Dialog.Title>
                                     </div>
                                     <div className="relative flex-1 px-4 sm:px-6">
-                                        <div className="absolute inset-0 px-20 flex overflow-x-auto overflow-y-hidden gap-20 items-start pb-14 sm:flex-col sm:overflow-y-auto sm:mb-80 xs:flex-col xs:overflow-y-auto xs:mb-40">
+                                        <div className="absolute inset-0 px-20 flex overflow-x-auto overflow-y-hidden gap-20 items-start pb-14 sm:flex-col sm:overflow-y-auto sm:mb-10 xs:flex-col xs:overflow-y-auto xs:mb-40">
                                             <div className="flex flex-col h-full text-gray-200 w-full" onMouseEnter={e => setMapHover(true)} onMouseLeave={e => setMapHover(false)}>
                                                 <div class="max-w-2xl shadow-md aspect-w-16 aspect-h-10">
                                                     <div class="w-full h-6 rounded-t-lg bg-gray-200 flex justify-start items-center space-x-1.5 px-4">
